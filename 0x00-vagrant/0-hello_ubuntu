@@ -1,1 +1,2 @@
-linux
+#!/bin/bash
+print system information of linux
